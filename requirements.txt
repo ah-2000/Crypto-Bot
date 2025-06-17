@@ -10,3 +10,4 @@ duckduckgo-search
 fastapi
 uvicorn
 requests
+tensorflow
