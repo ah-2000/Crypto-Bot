@@ -1,0 +1,12 @@
+streamlit
+newsapi-python
+numpy
+pandas
+scikit-learn
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+requests
