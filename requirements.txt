@@ -10,4 +10,4 @@ duckduckgo-search
 fastapi
 uvicorn
 requests
-tensorflow
+tensorflow==2.15.0
